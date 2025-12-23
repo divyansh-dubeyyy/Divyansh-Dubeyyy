@@ -10,7 +10,7 @@
 ### 🔹 Gram Kisan Seva Doot 67
 A web-based project aimed at helping rural and village-level services.
 
-**Tech Used:** HTML, CSS, Java / Python  
+**Tech Used:** HTML, CSS, Java / Python 
 **Status:** In Progress 🚧
 
 
