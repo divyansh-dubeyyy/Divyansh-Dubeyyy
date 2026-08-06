@@ -1,39 +1,124 @@
 # Hi 👋, I'm Divyansh Dubey
 
-🎓 Computer Science Student | Aspiring Software Developer  
-💻 Interested in Java, Python, Backend Development  
-🚀 Learning by building real-world projects  
-
---
-
-## 📌 Projects
-### 🔹 Gram Kisan Seva Doot 
-A web-based project aimed at helping rural and village-level services.
-
-**Tech Used:** HTML, CSS, Java / Python 
-
-**Status:** In Progress 🚧
-
-
----
-⭐ *I believe in learning by building and improving every day.*
+<p align="center">
+🎓 B.Tech Computer Science (Data Science) Student <br>
+💻 Full Stack Web Developer | Hackathon Builder | Open Source Learner
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_Divyansh__dubey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-dubey-573ba8229) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divyansh-Dubeyyy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Dubeyyy&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Dubeyyy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Divyansh-Dubeyyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🎓 B.Tech Computer Science (Data Science) Student
+- 💡 Passionate about solving real-world problems through software
+- 🌱 Currently learning **React, FastAPI, Backend Development, Machine Learning & DSA**
+- 🛠️ I enjoy building complete applications—from frontend UI to backend APIs
+- 🚀 Always exploring new technologies and improving my development skills
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divyansh-Dubeyyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 Featured Projects
+
+## 🏥 Smart Hospital App (Hackathon)
+
+A Smart Hospital Management System that helps patients, doctors and hospitals manage queues, appointments and resources efficiently.
+
+**Highlights**
+- 🗺️ Live Hospital Explorer with Maps
+- 🎫 Smart Queue & Token Management
+- 📍 Half Token + Geofencing System
+- 📱 QR-based Queue Joining
+- 🩺 Doctor Dashboard
+- 🏥 Hospital Resource Management
+- 📊 Analytics Dashboard
+
+**Tech Stack:** React • FastAPI • Tailwind CSS • SQLite • SQLAlchemy • Leaflet • Clerk • Capacitor
+
+---
+
+## 🖥️ PC Builder Store
+
+A modern PC Builder & E-commerce web application where users can customize gaming PCs and purchase components.
+
+**Features**
+- 🛒 Shopping Cart
+- 🎮 PC Customization
+- 🔍 Product Search
+- 📱 Responsive Design
+- 🔐 Login System
+- 💳 Checkout Flow
+- ✨ Modern Animated UI
+
+**Tech Stack:** HTML • CSS • Bootstrap • JavaScript • LocalStorage
+
+---
+
+## 🌾 Gram Kisan Seva Doot
+
+A hackathon project focused on providing digital services for rural communities.
+
+**Status:** Ongoing
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- C++
+
+### Frontend
+- React
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- Vite
+
+### Backend
+- FastAPI
+- SQLite
+- SQLAlchemy
+- MySQL
+
+### Tools
+Git • GitHub • Figma • Firebase • VS Code
+
+---
+
+# 📚 Currently Learning
+
+- React Ecosystem
+- FastAPI
+- Backend Architecture
+- Data Structures & Algorithms
+- Machine Learning
+- System Design
+
+---
+
+# 📈 GitHub Stats
+
+```md
+![](https://github-readme-stats.vercel.app/api?username=Divyansh-Dubeyyy&theme=highcontrast&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Dubeyyy&theme=highcontrast)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Dubeyyy&layout=compact&theme=highcontrast)
+```
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 📷 Instagram
+- 📧 Email
+
+---
+
+## 💭 Quote
+
+> *"Every project teaches something new. I believe the best way to learn software engineering is by building, experimenting, and continuously improving."*
